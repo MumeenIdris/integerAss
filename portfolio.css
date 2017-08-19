@@ -1,0 +1,19 @@
+body {
+
+}
+
+h1 {
+	font-size: 400%;
+}
+
+h2 {
+	font-weight: bold;
+}
+
+p {
+	font-size: 150%;
+}
+
+.personal {
+	padding-left: 0;
+}
